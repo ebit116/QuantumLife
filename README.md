@@ -1,5 +1,5 @@
 # QuantumLife
-# Use dynex for fortune telling, requiring the details of the fortune book to be accurate to the minute
+# Use dynex for fortune telling, requiring the details of the fortune book to be accurate to the minute https://github.com/Dynex-Development/py-sdk
 pip install dynex dimod  # Dynex SDK（已支持 dimod）
 # 设置环境变量（或放在 .env 文件里）
 export DYNEX_SDK_KEY=你的SDK密钥
